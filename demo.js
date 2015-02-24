@@ -1,10 +1,3 @@
-# PeeperJS
-PeeperJs is a JavaScript module for observing the properties changes
-
-# How to use
-
-```js
-
 
 var peeper = require('./peeper.js');
 
@@ -30,4 +23,3 @@ observation.dispose();
 person.Age = 33;
 
 // No console output
-```
